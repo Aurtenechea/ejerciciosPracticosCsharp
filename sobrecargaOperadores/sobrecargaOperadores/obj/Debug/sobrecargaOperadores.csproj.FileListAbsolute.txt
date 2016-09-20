@@ -4,3 +4,6 @@ C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sob
 C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\bin\Debug\sobrecargaOperadores.pdb
 C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.exe
 C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.pdb
+D:\aurtenechea.ignacio\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\bin\Debug\sobrecargaOperadores.exe.config
+D:\aurtenechea.ignacio\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.exe
+D:\aurtenechea.ignacio\ejerciciosPracticosCsharp\sobrecargaOperadores\sobrecargaOperadores\obj\Debug\sobrecargaOperadores.pdb
