@@ -10,3 +10,6 @@ C:\Users\Nacho\Documents\programas\programasCsharp\Csharp\array\array\obj\Debug\
 C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\array\array\bin\Debug\array.exe.config
 C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\array\array\obj\Debug\array.exe
 C:\Users\Nacho\Documents\programas\programasCsharp\ejerciciosPracticosCsharp\array\array\obj\Debug\array.pdb
+D:\aurtenechea.ignacio\ejerciciosPracticosCsharp\array\array\bin\Debug\array.exe.config
+D:\aurtenechea.ignacio\ejerciciosPracticosCsharp\array\array\obj\Debug\array.exe
+D:\aurtenechea.ignacio\ejerciciosPracticosCsharp\array\array\obj\Debug\array.pdb
